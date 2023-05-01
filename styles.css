@@ -1,0 +1,30 @@
+.box{
+    margin-top:2%;
+}
+.logo{
+    width: 1em;
+}
+#selfpict{
+    width: 12em;
+    border-radius: 70%;
+}
+.medium-title{
+    margin: 0;
+    font-weight: bold;
+}
+.copyonclick{
+    color:#007BFF;
+}
+
+.copyonclick:hover {
+    color:blue;
+    cursor: pointer;
+  }
+
+  .copiedPopUp {
+    color: #555;
+  }
+  
+  .hiddenPop {
+    display: none;
+  }
