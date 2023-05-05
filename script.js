@@ -45,7 +45,7 @@ function showCopiedText() {
     }, 3000);
   }
 
-  
   function imprimir() {
-    window.print();
-  }
+      window.print();
+    }
+  
