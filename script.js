@@ -46,3 +46,6 @@ function showCopiedText() {
   }
 
   
+  function imprimir() {
+    window.print();
+  }
