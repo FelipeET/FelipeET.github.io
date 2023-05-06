@@ -7,6 +7,9 @@
 .pdflogo{
   width: 1.5em;
 }
+.pdftext{
+  cursor: pointer;
+}
 #selfpict{
     width: 10em;
     border-radius: 70%;
@@ -14,6 +17,11 @@
 .medium-title{
     margin: 0;
     font-weight: bold;
+    font-size: 1.2em;
+}
+.small-title{
+  margin: 0;
+  font-weight: bold;
 }
 .copyonclick{
     color:#007BFF;
@@ -39,5 +47,4 @@
 
   li{
     margin: 0.8em 0;
-
   }
