@@ -1,8 +1,8 @@
 .box{
-    margin-top:2%;
+  margin-top:2%;
 }
 .logo{
-    width: 1em;
+  width: 1em;
 }
 .biglogo{
   width: 1.5em;
@@ -11,26 +11,26 @@
   cursor: pointer;
 }
 #selfpict{
-    width: 10em;
-    border-radius: 70%;
+  width: 10em;
+  border-radius: 70%;
 }
 .medium-title{
-    margin: 0;
-    font-weight: bold;
-    font-size: 1em;
+  margin: 0;
+  font-weight: bold;
+  font-size: 1em;
 }
 .small-title{
   margin: 0;
   font-weight: bold;
 }
 .copyonclick{
-    color:#007BFF;
+  color:#007BFF;
 }
 
 .copyonclick:hover {
-    color:blue;
-    cursor: pointer;
-  }
+  color:blue;
+  cursor: pointer;
+}
 
 .copiedPopUp {
   color: #555;
@@ -47,4 +47,9 @@ ul{
 
 li{
   margin: 0.8em 0;
+}
+
+.container{
+  background-color: rgb(231, 230, 255);
+  border: 1px solid rgb(175, 175, 175);
 }
