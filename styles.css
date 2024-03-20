@@ -1,25 +1,15 @@
 .box{
   margin-top:2%;
+
 }
 .logo{
   width: 1em;
 }
-.biglogo{
-  width: 1.5em;
-}
-.pdftext{
-  cursor: pointer;
-}
 #selfpict{
-  width: 10em;
+  width: 12em;
   border-radius: 70%;
 }
 .medium-title{
-  margin: 0;
-  font-weight: bold;
-  font-size: 1em;
-}
-.small-title{
   margin: 0;
   font-weight: bold;
 }
@@ -35,21 +25,18 @@
 .copiedPopUp {
   color: #555;
 }
-  
+
 .hiddenPop {
   display: none;
 }
 
-ul{
-  list-style-type: none;
-  padding: 0;
+.undertitle {
+  color: #777777;
 }
 
-li{
-  margin: 0.8em 0;
+.pdftext{
+  cursor: pointer;
 }
-
-.container{
-  background-color: rgb(231, 230, 255);
-  border: 1px solid rgb(175, 175, 175);
+.biglogo{
+  width: 1.5em;
 }
